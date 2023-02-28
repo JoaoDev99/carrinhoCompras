@@ -20,27 +20,27 @@ export default function Home() {
   const [products, setProducts] = useState([
     {
       id: "1",
-      name: "Coca cola",
-      price: 19.9,
+      name: "Coca cola 350ml",
+      price: 6,
     },
     {
       id: "2",
-      name: "Chocolate",
-      price: 6.5,
+      name: "Hambúrguer",
+      price: 19.99,
     },
     {
       id: "4",
-      name: "Queijo 500g",
-      price: 15,
+      name: "Pizza Grande",
+      price: 49.99,
     },
     {
       id: "5",
       name: "Batata frita",
-      price: 23.9,
+      price: 23.95,
     },
     {
       id: "6",
-      name: "Guarana lata",
+      name: "Guarana lata 350ml",
       price: 6.0,
     },
   ]);
